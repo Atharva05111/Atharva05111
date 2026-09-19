@@ -31,13 +31,13 @@
 <text x="50" y="284" xml:space="preserve"><tspan fill="#f5a623">Ship quietly. Question every unverified commit.</tspan></text>
 <text x="50" y="322" xml:space="preserve"><tspan fill="#ece6df">Last login: Sat Sep 19 2026 from Mumbai, India</tspan></text>
 <text x="50" y="360" xml:space="preserve"><tspan fill="#f5a623">atharva</tspan><tspan fill="#e34fb0">@dev</tspan><tspan fill="#ece6df">:~$ </tspan><tspan fill="#ece6df">uptime -p</tspan></text>
-<text x="50" y="379" xml:space="preserve"><tspan fill="#ece6df">up 24/7, mostly on chai</tspan></text>
+<text x="50" y="379" xml:space="preserve"><tspan fill="#ece6df">up 24/7</tspan></text>
 <text x="50" y="417" xml:space="preserve"><tspan fill="#f5a623">atharva</tspan><tspan fill="#e34fb0">@dev</tspan><tspan fill="#ece6df">:~$ </tspan><tspan fill="#ece6df">ls</tspan></text>
 <text x="50" y="436" xml:space="preserve"><tspan fill="#ece6df">about  tech  interests  contact</tspan></text>
 <text x="50" y="474" xml:space="preserve"><tspan fill="#f5a623">atharva</tspan><tspan fill="#e34fb0">@dev</tspan><tspan fill="#ece6df">:~$ </tspan><tspan fill="#ece6df">cat ./about</tspan></text>
 <text x="50" y="493" xml:space="preserve"><tspan fill="#ece6df">Location : </tspan><tspan fill="#f5a623">Mumbai, India</tspan></text>
 <text x="50" y="531" xml:space="preserve"><tspan fill="#f5a623">atharva</tspan><tspan fill="#e34fb0">@dev</tspan><tspan fill="#ece6df">:~$ </tspan><tspan fill="#ece6df">cat ./tech | jq</tspan></text>
-<text x="50" y="550" xml:space="preserve"><tspan fill="#ece6df">[</tspan><tspan fill="#a5d6a7">"React"</tspan><tspan fill="#ece6df">, </tspan><tspan fill="#a5d6a7">"React Native"</tspan><tspan fill="#ece6df">, </tspan><tspan fill="#a5d6a7">"Full Stack"</tspan><tspan fill="#ece6df">]</tspan></text>
+<text x="50" y="550" xml:space="preserve"><tspan fill="#ece6df">[</tspan><tspan fill="#a5d6a7">"C"</tspan><tspan fill="#ece6df">, </tspan><tspan fill="#a5d6a7">"Typescript"</tspan><tspan fill="#ece6df">, </tspan><tspan fill="#a5d6a7">"SQL"</tspan><tspan fill="#ece6df">,</tspan><tspan fill="#a5d6a7">"Python"</tspan><tspan fill="#ece6df">]</tspan></text>
 <text x="50" y="588" xml:space="preserve"><tspan fill="#f5a623">atharva</tspan><tspan fill="#e34fb0">@dev</tspan><tspan fill="#ece6df">:~$ </tspan><tspan fill="#ece6df">cat ./interests | jq</tspan></text>
 <text x="50" y="607" xml:space="preserve"><tspan fill="#ece6df">{</tspan></text>
 <text x="50" y="626" xml:space="preserve"><tspan fill="#ece6df">  </tspan><tspan fill="#7aa2f7">"general"</tspan><tspan fill="#ece6df">: [</tspan><tspan fill="#a5d6a7">"F1"</tspan><tspan fill="#ece6df">, </tspan><tspan fill="#a5d6a7">"UFC"</tspan><tspan fill="#ece6df">, </tspan><tspan fill="#a5d6a7">"Gaming"</tspan><tspan fill="#ece6df">, </tspan><tspan fill="#a5d6a7">"Gadgets"</tspan><tspan fill="#ece6df">, </tspan><tspan fill="#a5d6a7">"Music"</tspan><tspan fill="#ece6df">, </tspan><tspan fill="#a5d6a7">"Cars"</tspan><tspan fill="#ece6df">],</tspan></text>
